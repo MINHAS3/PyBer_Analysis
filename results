@@ -1,0 +1,46 @@
+# PyBer Analysis Report
+This PyBer Analysis reports shows the trends of ride sharing market in different areas of the city. 
+## Background and Results
+The background and results are of how different areas can effect the pricing of the travel different communities. 
+https://github.com/MINHAS3/PyBer_Analysis/blob/master/Fig8.png
+### Purpose
+The purpose of the analysis is to show the breakdown of rider data from different parts of the city.
+### Technical Analysis
+I was able to match the codes to able to better understand the data with the graphs and charts. 
+The different graphs and charts represent each category allowing us to determine how to easily expand services in areas where it is needed the most. 
+It showed the trends that otherwise would be missed. 
+### Results
+The results showed how the trends in the market were different in each of the months. The chart showed the peaks to low points in the rider riding trends. 
+It shows how riders trends vary in each of the areas of the city. https://github.com/MINHAS3/PyBer_Analysis/blob/master/Fig2.png
+### Summary
+The summary of the reports and charts will allow the analysist to easily identify the trends. 
+https://github.com/MINHAS3/PyBer_Analysis/blob/master/Fig6.png
+## Challenges Encountered and Overcome
+I overcome the challenges by reviewing the coding scripts to formulate the proper lines to complete the code. 
+I used resources such as YouTube, my classmates, TA's, tutor and examples given in the modules working through them repeatedly to correct any mistakes to properly run the code. 
+### Challenges and Difficulties Encountered
+The challenges that I faced were gathering the information and creating the charts. The charts were a bit complicated to organize and arrange in the order that were required. 
+Inputting the proper data to build the charts, getting the correct percentages and accurately combining the DataFrame for the charts. 
+* Programming
+
+* Data analysis
+
+* Graphing, etc
+
+### Technical Analyses Used
+The technical anaylsis used were charts and the tables to shows the results. 
+## Recommendations and Next Steps
+The next steps would be to clearly use diagrams to clearly state the charts that are clearly labeled with explainations. 
+### Recommendations for Future Analysis
+The recommendations for future analysis are that analysist thoroughly review each code to be inputted in order to explain to the team or company. 
+### Additional Analysis 1
+
+* Description of Approach
+
+* Technical Steps
+
+### Additional Analysis 2
+
+* Description of Approach
+
+* Technical Steps
