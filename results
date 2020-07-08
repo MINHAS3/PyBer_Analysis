@@ -26,7 +26,9 @@ Inputting the proper data to build the charts, getting the correct percentages a
 * Data analysis
 
 * Graphing, etc
-
+https://github.com/MINHAS3/PyBer_Analysis/blob/master/Fig8.png
+https://github.com/MINHAS3/PyBer_Analysis/blob/master/Fig2.png
+https://github.com/MINHAS3/PyBer_Analysis/blob/master/Fig5.png
 ### Technical Analyses Used
 The technical anaylsis used were charts and the tables to shows the results. 
 ## Recommendations and Next Steps
@@ -34,13 +36,23 @@ The next steps would be to clearly use diagrams to clearly state the charts that
 ### Recommendations for Future Analysis
 The recommendations for future analysis are that analysist thoroughly review each code to be inputted in order to explain to the team or company. 
 ### Additional Analysis 1
+The difficulties that I was faced was were how to properly make the chart and add each code properly to the plot. 
+Being able to plot each cell without errors was the most complicated because if a line were not defined properly then the next cell would have an error and not run. 
+Defining the codes was a bit time consuming however once they ran properly, I was able to get the results needed. 
 
 * Description of Approach
 
 * Technical Steps
-
+The technical steps that went into resolving issues were properly identifying errors, 
+correcting them by reviewing each cell assuring the sequence for each code was arranged to define the result that was needed.
 ### Additional Analysis 2
-
+When making the chart adjusting and placing the columns to align with the line graph to show the results that were needed. 
+The adjustments were to properly add the legend, colors, city, and fares. 
 * Description of Approach
 
 * Technical Steps
+The steps that I took to correct the problems were first gathered the information needed to make the chart. 
+Second, I set the layout of the graph by placing the columns in the correct order. 
+Third, I placed the order of how each item should be on the chart. 
+Lastly, once all I had my code written I ran the code to display the chart resulting in a defined line chart. 
+https://github.com/MINHAS3/PyBer_Analysis/blob/master/Fig8.png
